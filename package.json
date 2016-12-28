@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-angularjs-upgrade",
+  "version": "0.0.1",
+  "description": "Set of linting rules to help make upgrading from AngularJS to Angular (2) easier.",
+  "main": "index.js",
+  "author": "Nick Blanchard",
+  "homepage": "https://github.com/neb636/eslint-plugin-angularjs-upgrade",
+  "license": "MIT",
+  "keywords": [
+    "eslint",
+    "lint",
+    "javascript",
+    "AngularJS",
+    "Angular 2",
+    "AngularJS upgrade"
+  ],
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  },
+  "dependencies": {
+    "gt": "^0.10.0"
+  }
+}
